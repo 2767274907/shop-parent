@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>shop-parent</artifactId>
+        <groupId>com.t248</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>shop-portal</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>shop-portal-web</module>
+        <module>shop-portal-sso</module>
+        <module>shop-portal-search</module>
+        <module>shop-portal-spike</module>
+        <module>shop-portal-cms</module>
+    </modules>
+
+
+</project>

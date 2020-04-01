@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shop-service-api-spike" />
+        <module name="shop-service-weixin" />
+        <module name="shop-portal-sso" />
+        <module name="shop-service-sso" />
+        <module name="shop-service-api-member" />
+        <module name="shop-service-api-sso" />
+        <module name="shop-basics-springcloud-eureka" />
+        <module name="shop-portal-cms" />
+        <module name="shop-service-api-order" />
+        <module name="shop-portal-spike" />
+        <module name="shop-service-member" />
+        <module name="shop-service-api-search" />
+        <module name="shop-portal-web" />
+        <module name="shop-service-spike" />
+        <module name="shop-basics-xuxueli-xxljob" />
+        <module name="shop-common-core" />
+        <module name="shop-service-tem" />
+        <module name="shop-portal-search" />
+        <module name="shop-basics-apollo-config-server" />
+        <module name="shop-service-search" />
+        <module name="shop-service-api-item" />
+        <module name="shop-service-api-weixin" />
+        <module name="shop-basics-codingapi-lcn" />
+        <module name="shop-service-order" />
+        <module name="shop-basics-codingapi-zipkin" />
+        <module name="shop-service-pay" />
+        <module name="shop-service-api-pay" />
+        <module name="shop-basics-springcloud-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shop-basics" target="1.8" />
+      <module name="shop-basics-apollo-config-server" target="1.8" />
+      <module name="shop-basics-codingapi-lcn" target="1.8" />
+      <module name="shop-basics-codingapi-zipkin" target="1.8" />
+      <module name="shop-basics-springcloud-eureka" target="1.8" />
+      <module name="shop-basics-springcloud-zuul" target="1.8" />
+      <module name="shop-basics-xuxueli-xxljob" target="1.8" />
+      <module name="shop-common" target="1.8" />
+      <module name="shop-common-core" target="1.8" />
+      <module name="shop-parent" target="1.8" />
+      <module name="shop-portal" target="1.8" />
+      <module name="shop-portal-cms" target="1.8" />
+      <module name="shop-portal-search" target="1.8" />
+      <module name="shop-portal-spike" target="1.8" />
+      <module name="shop-portal-sso" target="1.8" />
+      <module name="shop-portal-web" target="1.8" />
+      <module name="shop-service-api" target="1.8" />
+      <module name="shop-service-api-item" target="1.8" />
+      <module name="shop-service-api-member" target="1.8" />
+      <module name="shop-service-api-order" target="1.8" />
+      <module name="shop-service-api-pay" target="1.8" />
+      <module name="shop-service-api-search" target="1.8" />
+      <module name="shop-service-api-spike" target="1.8" />
+      <module name="shop-service-api-sso" target="1.8" />
+      <module name="shop-service-api-weixin" target="1.8" />
+      <module name="shop-service-impl" target="1.8" />
+      <module name="shop-service-member" target="1.8" />
+      <module name="shop-service-order" target="1.8" />
+      <module name="shop-service-pay" target="1.8" />
+      <module name="shop-service-search" target="1.8" />
+      <module name="shop-service-spike" target="1.8" />
+      <module name="shop-service-sso" target="1.8" />
+      <module name="shop-service-tem" target="1.8" />
+      <module name="shop-service-weixin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="shop-basics" options="-parameters" />
+      <module name="shop-basics-apollo-config-server" options="-parameters" />
+      <module name="shop-basics-codingapi-lcn" options="-parameters" />
+      <module name="shop-basics-codingapi-zipkin" options="-parameters" />
+      <module name="shop-basics-springcloud-eureka" options="-parameters" />
+      <module name="shop-basics-springcloud-zuul" options="-parameters" />
+      <module name="shop-basics-xuxueli-xxljob" options="-parameters" />
+      <module name="shop-common" options="-parameters" />
+      <module name="shop-common-core" options="-parameters" />
+      <module name="shop-parent" options="-parameters" />
+      <module name="shop-portal" options="-parameters" />
+      <module name="shop-portal-cms" options="-parameters" />
+      <module name="shop-portal-search" options="-parameters" />
+      <module name="shop-portal-spike" options="-parameters" />
+      <module name="shop-portal-sso" options="-parameters" />
+      <module name="shop-portal-web" options="-parameters" />
+      <module name="shop-service-api" options="-parameters" />
+      <module name="shop-service-api-item" options="-parameters" />
+      <module name="shop-service-api-member" options="-parameters" />
+      <module name="shop-service-api-order" options="-parameters" />
+      <module name="shop-service-api-pay" options="-parameters" />
+      <module name="shop-service-api-search" options="-parameters" />
+      <module name="shop-service-api-spike" options="-parameters" />
+      <module name="shop-service-api-sso" options="-parameters" />
+      <module name="shop-service-api-weixin" options="-parameters" />
+      <module name="shop-service-impl" options="-parameters" />
+      <module name="shop-service-member" options="-parameters" />
+      <module name="shop-service-order" options="-parameters" />
+      <module name="shop-service-pay" options="-parameters" />
+      <module name="shop-service-search" options="-parameters" />
+      <module name="shop-service-spike" options="-parameters" />
+      <module name="shop-service-sso" options="-parameters" />
+      <module name="shop-service-tem" options="-parameters" />
+      <module name="shop-service-weixin" options="-parameters" />
+    </option>
+  </component>
+</project>

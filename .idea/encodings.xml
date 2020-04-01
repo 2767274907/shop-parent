@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-basics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-basics/shop-basics-apollo-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-basics/shop-basics-codingapi-lcn" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-basics/shop-basics-codingapi-zipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-basics/shop-basics-springcloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-basics/shop-basics-springcloud-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-basics/shop-basics-xuxueli-xxljob" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-common/shop-common-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-portal/shop-portal-cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-portal/shop-portal-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-portal/shop-portal-spike" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-portal/shop-portal-sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-portal/shop-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-spike" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-weixin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-impl/shop-service-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-impl/shop-service-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-impl/shop-service-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-impl/shop-service-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-impl/shop-service-spike" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-impl/shop-service-sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-impl/shop-service-tem" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-impl/shop-service-weixin" charset="UTF-8" />
+  </component>
+</project>
