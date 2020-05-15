@@ -27,6 +27,8 @@
       <module fileurl="file://$PROJECT_DIR$/shop-service-api/shop-service-api-spike/shop-service-api-spike.iml" filepath="$PROJECT_DIR$/shop-service-api/shop-service-api-spike/shop-service-api-spike.iml" />
       <module fileurl="file://$PROJECT_DIR$/shop-service-api/shop-service-api-sso/shop-service-api-sso.iml" filepath="$PROJECT_DIR$/shop-service-api/shop-service-api-sso/shop-service-api-sso.iml" />
       <module fileurl="file://$PROJECT_DIR$/shop-service-api/shop-service-api-weixin/shop-service-api-weixin.iml" filepath="$PROJECT_DIR$/shop-service-api/shop-service-api-weixin/shop-service-api-weixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-service-entity/shop-service-entity.iml" filepath="$PROJECT_DIR$/shop-service-entity/shop-service-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-service-entity/shop-service-entity-weixin/shop-service-entity-weixin.iml" filepath="$PROJECT_DIR$/shop-service-entity/shop-service-entity-weixin/shop-service-entity-weixin.iml" />
       <module fileurl="file://$PROJECT_DIR$/shop-service-impl/shop-service-impl.iml" filepath="$PROJECT_DIR$/shop-service-impl/shop-service-impl.iml" />
       <module fileurl="file://$PROJECT_DIR$/shop-service-impl/shop-service-member/shop-service-member.iml" filepath="$PROJECT_DIR$/shop-service-impl/shop-service-member/shop-service-member.iml" />
       <module fileurl="file://$PROJECT_DIR$/shop-service-impl/shop-service-order/shop-service-order.iml" filepath="$PROJECT_DIR$/shop-service-impl/shop-service-order/shop-service-order.iml" />

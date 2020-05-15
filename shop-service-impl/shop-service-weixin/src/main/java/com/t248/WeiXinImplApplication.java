@@ -1,4 +1,4 @@
-package com.t248.shopserviceweixin;
+package com.t248;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -12,10 +12,10 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
  */
 @SpringBootApplication
 @EnableEurekaClient
-public class ShopServiceWeixinApplication {
+public class WeiXinImplApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ShopServiceWeixinApplication.class,args);
+        SpringApplication.run(WeiXinApiApplication.class,args);
     }
 
 }
