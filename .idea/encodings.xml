@@ -31,21 +31,16 @@
     <file url="file://$PROJECT_DIR$/shop-portal/shop-portal-web/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shop-service-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-item" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-item/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-member" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-member/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-order" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-pay" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-pay/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-search" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-search/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-spike" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-spike/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-sso" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-sso/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-weixin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shop-service-api/shop-service-api-weixin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-entity/shop-service-entity-member/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shop-service-entity/shop-service-entity-weixin/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shop-service-impl" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shop-service-impl/shop-service-member" charset="UTF-8" />

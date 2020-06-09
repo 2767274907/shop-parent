@@ -1,2 +1,4 @@
 com\t248\member\MemberApplication.class
+com\t248\member\mapper\UserMapper.class
 com\t248\member\impl\MemberServiceImpl.class
+com\t248\member\impl\MemberRegisterServiceImpl.class

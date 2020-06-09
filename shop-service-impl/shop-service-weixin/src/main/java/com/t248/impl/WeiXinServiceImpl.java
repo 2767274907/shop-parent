@@ -2,7 +2,7 @@ package com.t248.impl;
 
 import com.t248.cure.base.BaseApiService;
 import com.t248.cure.base.BaseResponse;
-import com.t248.entity.App;
+import com.t248.weixin.entity.App;
 import com.t248.service.WeiXinService;
 import org.springframework.web.bind.annotation.RestController;
 

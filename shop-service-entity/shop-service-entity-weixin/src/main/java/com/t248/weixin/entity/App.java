@@ -1,4 +1,4 @@
-package com.t248.entity;
+package com.t248.weixin.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

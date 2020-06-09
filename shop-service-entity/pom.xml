@@ -13,11 +13,18 @@
     <packaging>pom</packaging>
     <modules>
         <module>shop-service-entity-weixin</module>
+        <module>shop-service-entity-member</module>
     </modules>
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
+        </dependency>
+<!--        swagger依赖-->
+        <dependency>
+            <groupId>com.spring4all</groupId>
+            <artifactId>swagger-spring-boot-starter</artifactId>
+            <version>1.7.0.RELEASE</version>
         </dependency>
     </dependencies>
 
