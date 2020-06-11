@@ -29,7 +29,7 @@
         </dependency>
         <dependency>
             <groupId>com.t248</groupId>
-            <artifactId>shop-service-entity-member</artifactId>
+            <artifactId>shop-api-dto-member</artifactId>
             <version>0.0.1-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>

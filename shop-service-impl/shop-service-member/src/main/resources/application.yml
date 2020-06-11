@@ -29,3 +29,9 @@ eureka:
     service-url:
       defaultZone: http://localhost:8100/eureka
 
+####打印MyBatias日志
+logging:
+  level:
+    ##开发环境使用DEBUG 生产环境使用INFO或者ERROR  DEBUG会打印较为详细的日志，而INFO仅打印核心 ERROR则打印错误信息
+    com.t248.member.mapper: DEBUG
+

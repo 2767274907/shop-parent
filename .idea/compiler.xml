@@ -9,14 +9,14 @@
         <module name="shop-service-tem" />
         <module name="shop-service-entity-member" />
         <module name="shop-service-pay" />
-        <module name="shop-basics-springcloud-zuul" />
         <module name="shop-service-entity-weixin" />
+        <module name="shop-api-dto-member" />
         <module name="shop-basics-codingapi-lcn" />
         <module name="shop-portal-spike" />
         <module name="shop-service-spike" />
         <module name="shop-service-api-search" />
         <module name="shop-service-member" />
-        <module name="shop-basics-xuxueli-xxljob" />
+        <module name="shop-basics-springcloud-zuul" />
         <module name="shop-service-api-sso" />
         <module name="shop-service-weixin" />
         <module name="shop-basics-apollo-config-server" />
@@ -28,17 +28,21 @@
         <module name="shop-basics-codingapi-zipkin" />
         <module name="shop-portal-sso" />
         <module name="shop-service-api-item" />
+        <module name="shop-service-search" />
         <module name="shop-basics-springcloud-eureka" />
         <module name="shop-service-api-weixin" />
-        <module name="shop-portal-web" />
+        <module name="shop-basics-xuxueli-xxljob" />
         <module name="shop-common-core" />
+        <module name="shop-api-dto-weixin" />
         <module name="shop-service-api-pay" />
         <module name="shop-portal-cms" />
-        <module name="shop-service-search" />
+        <module name="shop-portal-web" />
         <module name="shop-service-api-order" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="shop-api-dto-member" target="1.8" />
+      <module name="shop-api-dto-weixin" target="1.8" />
       <module name="shop-basics" target="1.8" />
       <module name="shop-basics-apollo-config-server" target="1.8" />
       <module name="shop-basics-codingapi-lcn" target="1.8" />
@@ -56,6 +60,7 @@
       <module name="shop-portal-sso" target="1.8" />
       <module name="shop-portal-web" target="1.8" />
       <module name="shop-service-api" target="1.8" />
+      <module name="shop-service-api-dto" target="1.8" />
       <module name="shop-service-api-item" target="1.8" />
       <module name="shop-service-api-member" target="1.8" />
       <module name="shop-service-api-order" target="1.8" />
@@ -80,6 +85,8 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="shop-api-dto-member" options="-parameters" />
+      <module name="shop-api-dto-weixin" options="-parameters" />
       <module name="shop-basics" options="-parameters" />
       <module name="shop-basics-apollo-config-server" options="-parameters" />
       <module name="shop-basics-codingapi-lcn" options="-parameters" />
@@ -97,6 +104,7 @@
       <module name="shop-portal-sso" options="-parameters" />
       <module name="shop-portal-web" options="-parameters" />
       <module name="shop-service-api" options="-parameters" />
+      <module name="shop-service-api-dto" options="-parameters" />
       <module name="shop-service-api-item" options="-parameters" />
       <module name="shop-service-api-member" options="-parameters" />
       <module name="shop-service-api-order" options="-parameters" />

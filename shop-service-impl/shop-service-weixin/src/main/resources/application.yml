@@ -5,7 +5,7 @@ server:
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:8100/eureka
+      defaultZone: http://127.0.0.1:8100/eureka
 
 ###微信配置
 logging:
@@ -44,10 +44,16 @@ spring:
       min-idle: 1
       max-active: 1000
       max-wait: -1
+  ###数据库相关连接
+  datasource:
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/shop-parent?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=true
 
 ####swagger相关配置
 swagger:
-  base-package: com.t248.impl
+  base-package: com.t248.weixin.impl
   title: SpringCloud2.x构建微服务电商项目-微信服务接口
   description: 该项目“基于SpringCloud2.x构建微服务电商项目”由每特教育|蚂蚁课堂版权所有，未经过允许的情况下，私自分享视频和源码属于违法行为。
   version: 1.1

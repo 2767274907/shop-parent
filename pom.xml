@@ -10,6 +10,7 @@
         <module>shop-common</module>
         <module>shop-portal</module>
         <module>shop-service-entity</module>
+        <module>shop-service-api-dto</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

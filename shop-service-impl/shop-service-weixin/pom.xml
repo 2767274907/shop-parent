@@ -47,6 +47,12 @@
             <artifactId>swagger-spring-boot-starter</artifactId>
             <version>1.7.0.RELEASE</version>
         </dependency>
+        <dependency>
+            <groupId>com.t248</groupId>
+            <artifactId>shop-service-api-member</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
 
