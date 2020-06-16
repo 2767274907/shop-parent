@@ -27,6 +27,13 @@ public class MemberRegisterServiceImpl extends BaseApiService<JSONObject> implem
     @Autowired
     private VerificaCodeServiceFeign verificaCodeServiceFeign;
 
+
+    /**
+     * 注册接口
+     * @param userInpDTO
+     * @param registCode
+     * @return
+     */
     @Override
     @Transactional
     public BaseResponse<JSONObject> register(UserInpDTO userInpDTO, String registCode) {

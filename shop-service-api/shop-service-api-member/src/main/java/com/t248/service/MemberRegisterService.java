@@ -22,4 +22,5 @@ public interface MemberRegisterService {
 	BaseResponse<JSONObject> register(@RequestBody UserInpDTO userInpDTO,
 									  @RequestParam("registCode") String registCode);
 
+
 }
